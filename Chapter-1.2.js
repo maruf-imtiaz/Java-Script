@@ -1,5 +1,5 @@
-//Chapter 2 - Expressions & Conditionals
-// A fragments of code that produces a value is called an expression. Every Value Written literally is an expression for ex: 77; or "Maruf"
+//Chapter 1.2 - Expressions & Conditionals
+// A fragment of code that produces a value is called an expression. Every Value Written literally is an expression, for ex: 77; or "Maruf"
 
 //Operators in JavaScript
 
