@@ -1,4 +1,4 @@
-//Chapter 1 
+//Chapter 1.1 
  
 // Create a variable type string and try to add a number to it
 let a= "Maurf" //string variable
